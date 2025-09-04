@@ -3,6 +3,6 @@
 ## some code
 
 '''
-python prog.py
+python3 prog.py
 
 '''
